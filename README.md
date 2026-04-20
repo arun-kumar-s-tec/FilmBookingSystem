@@ -20,3 +20,8 @@ A Java Swing-based GUI application integrated with MySQL database for managing m
 3. Create database `filmdb`
 4. Update DB credentials in code
 5. Compile:
+javac FilmBookingGUI.java
+6. Run:
+java -cp ".;lib/mysql-connector-j-9.6.0.jar" FilmBookingGUI
+
+--------
